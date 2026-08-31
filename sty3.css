@@ -1,0 +1,125 @@
+header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#a{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 15px;
+    
+
+}
+
+#a input,#a textarea{
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    font-size: 14px;
+    width: 400px;
+    padding: 10px;
+
+}
+#a input:hover,#a textarea:hover{
+    border: 1px solid greenyellow;
+}
+
+#a label {
+    margin-top: 5px;
+}
+
+
+
+
+
+#b{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    text-align: center;
+    margin-top: 40px;
+}
+#c{
+    display:inline-block;
+    border-radius: 12px;
+    border: 2px solid grey;
+
+}
+button{
+    color:white;
+    background-color: rgb(57, 255, 47);
+    border-radius: 5px;
+    margin-top: 20px;
+    border-color: greenyellow;
+    padding: 10px;
+}
+#d{
+    margin-left: 200px;
+}
+#aa{
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 20px;
+    padding: 5px;
+    color:rgba(0, 0, 0, 0.696);
+    background-color:rgba(0, 128, 0, 0.053);
+    margin-left: 42em;
+    margin-right: 42em;
+}
+#bb{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+#cc{
+    color: grey;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.bleu{
+    background-color: rgba(0, 0, 139, 0.948);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-bottom:0px;
+}
+.bla{
+    background-color: rgba(0, 0, 139, 0.948);
+    color:white;
+    margin-top:0px;
+    display: flex;
+    flex-direction: row;
+    gap:850px;
+    padding-left: 20px;
+}
+/* hr{
+    width: 95%;
+    color: rgba(255, 255, 255);
+} */
+
+.mail{
+    display: flex;
+    align-items: center;
+}
+.wow{
+    text-align: left;
+    margin-left: 8px;
+    margin-top: 14px;
+}
+
+img{
+    width: 40px;
+    height: auto;
+    /* display: inline-block;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: gray; */
+}
+.ma{
+    font-weight: bold;
+}
