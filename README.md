@@ -1,0 +1,2 @@
+# Projet-de-cr-ation-de-site-web-pour-la-gestion-des-preuves
+J’ai entrepris de reproduire en HTML/CSS l’interface d’une banque d’épreuves de l’H3CP, destinée aux étudiants de prépa 1 et 2. Le site permet de consulter et télécharger des épreuves. Je souhaite maintenant développer sa partie backend et sa base de données, et serais heureux de bénéficier de l’accompagnement d’un développeur sur cette partie.  
